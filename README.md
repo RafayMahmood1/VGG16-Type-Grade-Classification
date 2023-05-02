@@ -251,7 +251,7 @@ plt.legend()
 
 
     
-![png](output_6_1.png)
+![png](assets/output_6_1.png)
     
 
 
@@ -273,7 +273,7 @@ plt.legend()
 
 
     
-![png](output_7_1.png)
+![png](assets/output_7_1.png)
     
 
 
@@ -304,7 +304,7 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![png](assets/output_9_0.png)
     
 
 
@@ -353,7 +353,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](assets/output_13_0.png)
     
 
 
@@ -509,7 +509,7 @@ plt.legend()
 
 
     
-![png](output_15_1.png)
+![png](assets/output_15_1.png)
     
 
 
@@ -531,7 +531,7 @@ plt.legend()
 
 
     
-![png](output_16_1.png)
+![png](assets/output_16_1.png)
     
 
 
@@ -562,6 +562,6 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](assets/output_18_0.png)
     
 
