@@ -16,7 +16,7 @@ The VGG16 model is a convolutional neural network that was trained on a large im
 * OpenCV
 * NumPy
 ## Usage
-Clone this repository: git clone https://github.com/rafaymahmood1/vgg16-type-grade-classification.git
+Clone this repository: git clone [https://github.com/rafaymahmood1/vgg16-type-grade-classification.git](https://github.com/RafayMahmood1/VGG16-Type-Grade-Classification.git)
 Run the Notebook-VGG16.ipynb file to train the model
 ## Results
 After training the model on the dataset, the accuracy achieved on the test set was around 90%. The model was able to correctly classify the type of mango and its quality based on the image of the mango.
