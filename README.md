@@ -9,12 +9,12 @@ The dataset used for this project contains images of different types of mangoes,
 The VGG16 model is a convolutional neural network that was trained on a large image dataset called ImageNet. The model has 16 layers, including 13 convolutional layers and 3 fully connected layers. It is a widely used model for image classification tasks due to its high accuracy.
 
 ## Requirements
-Python 3.x
-Keras
-Tensorflow
-OpenCV
-NumPy
-Usage
+- Python 3.x
+- Keras
+- Tensorflow
+- OpenCV
+- NumPy
+## Usage
 Clone this repository: git clone https://github.com/rafaymahmood1/vgg16-type-grade-classification.git
 Run the Notebook-VGG16.ipynb file to train the model
 ## Results
