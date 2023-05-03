@@ -57,7 +57,7 @@ import time
 
 
 ```python
-image_dir = Path(r'/content/drive/MyDrive/HUMZA_FYP/Classification_dataset')
+image_dir = Path(r'dataset_path')
 
 ```
 
@@ -317,7 +317,7 @@ plt.show()
 
 
 ```python
-image_dir = Path(r'/content/drive/MyDrive/HUMZA_FYP/Grading Dataset')
+image_dir = Path(r'dataset_path')
 
 filepaths = list(image_dir.glob(r'**/*.jpg'))
 labels = list(map(lambda x: os.path.split(os.path.split(x)[0])[1], filepaths))
